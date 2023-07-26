@@ -12,13 +12,13 @@ The query parameters include customer, principal (supplier),
 date column (i.e., which column to use for selecting dates) and 
 inputs for start and end dates.
 
-Customer can be broken down into Top 10, Top 25, or Top 50 customers,
+**Customer** can be broken down into Top 10, Top 25, or Top 50 customers,
 and the rest of the options are populated with all existing customers
 within the commissions master file.
 
-Principal is populated with all of our company's represented suppliers.
+**Principal** is populated with all of our company's represented suppliers.
 
-Date column selection includes two options: invoiced date and paid date.
+**Date Column** selection includes two options: invoiced date and paid date.
 
-Time period starts at the first of the current calendar year, 
+**Time Period** starts at the first of the current calendar year, 
 and ends at the current date.
