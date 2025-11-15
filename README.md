@@ -1,5 +1,7 @@
 # CommissionsReportGenerator
 
+Check out the [Slides](https://github.com/drphilllips/TAARCOM-CommissionsReportGenerator/blob/main/TAARCOM%20CommissionsReportGenerator.pptx "TAARCOM Commissions Report Generator")
+
 Reads in the entire Commissions Master file and generates a report
 based on several query parameters. Used for generating sales
 reports/forecasts at TAARCOM, inc.
@@ -22,3 +24,4 @@ within the commissions master file.
 
 **Time Period** starts at the first of the current calendar year, 
 and ends at the current date.
+
