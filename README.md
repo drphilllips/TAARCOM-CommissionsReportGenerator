@@ -6,10 +6,12 @@ Reads in the entire Commissions Master file and generates a report
 based on several query parameters. Used for generating sales
 reports/forecasts at TAARCOM, inc.
 
+## Data Store
 The Commissions Master file contains company commissions data, where
 each line item contains information on a sale--i.e., supplier, part
 number, distributor, quantity, unit price, invoiced dollars, etc.
 
+## Query Params
 The query parameters include customer, principal (supplier), 
 date column (i.e., which column to use for selecting dates) and 
 inputs for start and end dates.
@@ -24,5 +26,6 @@ within the commissions master file.
 
 **Time Period** starts at the first of the current calendar year, 
 and ends at the current date.
+
 
 
